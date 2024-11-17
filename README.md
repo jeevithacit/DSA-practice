@@ -1,1 +1,1 @@
-# DSA-practice
+# This repository contains the daily practice DSA problems.
